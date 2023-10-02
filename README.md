@@ -1,4 +1,4 @@
-# install-docker-docker-compose-aws-linux
+# install-docker-docker-compose-amazon-linux
 Steps to install docker and docker-compose in Amazon Linux
 
 ## Install docker
