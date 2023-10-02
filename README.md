@@ -11,6 +11,7 @@ Steps to install docker and docker-compose in Amazon Linux
 `sudo usermod -a -G docker ec2-user`
 
 Sign out and back in
+
 `docker version`
 
 ## Install docker-compose
